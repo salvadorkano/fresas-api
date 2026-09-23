@@ -1,0 +1,10 @@
+# Documentación y planificación locales
+/recursos/
+
+# Maven
+/target/
+
+# IDE y macOS
+/.idea/
+*.iml
+.DS_Store
